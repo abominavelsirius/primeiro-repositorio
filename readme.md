@@ -12,3 +12,8 @@ OBS: # pode ser usado como título também.
 ```
 # Aqui está um exemplo.
 
+
+Instruido no curso Alura por:
+Guilherme Lima
+Paulo Silveira
+
