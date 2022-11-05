@@ -12,4 +12,3 @@ OBS: # pode ser usado como título também.
 ```
 # Aqui está um exemplo.
 
-:)
